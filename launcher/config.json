@@ -1,0 +1,16 @@
+{
+    "GameName": "Interacao RadMat",
+    "Version": "0.0.1",
+    "MainFile": "Interacao RadMat.blend",
+    "DataFile": "./data.dat",
+    "DataSource": "./data",
+    "DataChunkSize": 32,
+    "Persistent": [
+        "*.bgeconf",
+        "*.sav"
+    ],
+    "Ignore": [
+        "*.pyc",
+        "*.blend1"
+    ]
+}
